@@ -1,0 +1,16 @@
+yfinance
+alpha_vantage
+polygon-api-client
+langchain
+streamlit
+python-dotenv
+pandas
+numpy
+matplotlib
+scikit-learn
+statsmodels
+tweepy
+praw
+newsapi-python
+finnhub-python
+google-generativeai
